@@ -1,3 +1,12 @@
 "use strict";
 const username = 'hello world';
 console.log(username);
+// let a = 12;
+// let b = '6';
+// let c = 2;
+// let d = a + b + c;
+let a = 12;
+let b = 6;
+let c = 2;
+let d = a + b + c;
+console.log(d);
